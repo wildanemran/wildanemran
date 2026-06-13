@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Wildan. 
 
-<!--
-**wildanemran/wildanemran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student developer from Indonesia who loves exploring new tech, optimizing workflows, and writing clean code.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+* **OS:** Linux Mint (XFCE)
+* **Languages:** JavaScript, HTML/CSS]
+* **Tools & Apps:** Git, GitHub, VS Code, Antigravity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Activities
+- 📚 Balancing school, tutoring, and self-taught coding.
+- 💻 Building personal projects to solve daily problems.
+- 🎯 Exploring [Isi bidang minat, misal: Automation / Web Dev].
+
+---
+*“Continuous improvement is better than delayed perfection.”*
