@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Wildan. 
 
-A student developer from Indonesia who loves exploring new tech, optimizing workflows, and writing clean code.
+A student developer who loves exploring new tech, optimizing workflows, and writing clean code.
 
 ## 🛠️ Tech Stack & Tools
 * **OS:** Linux Mint (XFCE)
