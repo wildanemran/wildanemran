@@ -17,7 +17,15 @@ A student developer who loves exploring new tech, optimizing workflows, and writ
 ## 📈 Current Activities
 - 📚 Balancing school, tutoring, and self-taught coding.
 - 💻 Building personal projects to solve daily problems.
-- 🎯 Exploring Web Development. 
+- 🎯 Exploring Web Development.
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/willy.me_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/wildan-emran)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/USER_ID_KAMU)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@USERNAME_KAMU)
+
   
 ## 📊 GitHub Stats
 
