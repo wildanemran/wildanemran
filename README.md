@@ -17,8 +17,8 @@ A student developer who loves exploring new tech, optimizing workflows, and writ
 ## 📈 Current Activities
 - 📚 Balancing school, tutoring, and self-taught coding.
 - 💻 Building personal projects to solve daily problems.
-- 🎯 Exploring [Isi bidang minat, misal: Automation / Web Dev].
-
+- 🎯 Exploring Web Development. 
+  
 ## 📊 GitHub Stats
 
 <p align="center">
