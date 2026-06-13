@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Wildan. 
+## 👋 Hi there, I'm Wildan. 
 
 A student developer who loves exploring new tech, optimizing workflows, and writing clean code.
 
@@ -22,7 +22,7 @@ A student developer who loves exploring new tech, optimizing workflows, and writ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wildanemran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 
